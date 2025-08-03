@@ -1,3 +1,8 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=200&section=header&text=Muhammad%20Arslan&fontSize=40&fontColor=ffffff" alt="header"/>
+</p>
+
 # 👋 Hi, I'm Arslan
 
 🎓 Software Engineering Student @ COMSATS, Wah Cantt  
@@ -62,3 +67,26 @@ Simulates a digital library with:
 
 - 💼 LinkedIn: [Muhammad Arslan](https://www.linkedin.com/in/muhammad-arslan-8a6780357)  
 - 📧 Email: [lazy4arslan@gmail.com](mailto:lazy4arslan@gmail.com)
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Lazy-Arslan&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true"/>
+</p>
+
+---
+
+## 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lazy-Arslan&theme=react-dark&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&hide_border=true" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lazy-Arslan&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazy-Arslan&layout=compact&theme=tokyonight" width="45%" />
+</p>
